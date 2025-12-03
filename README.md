@@ -90,13 +90,3 @@ Dataset Source: UCI Machine Learning Repository (Wine Quality Dataset)
 📧 Contact
 
 If you'd like to connect or give feedback, feel free to reach out!
-
-Would you like me to:
-
-Add a badges section (Python version, license, etc.)?
-
-Convert this into a markdown file with working links and image placeholders?
-
-Add a live preview section if you plan to publish visuals?
-
-🙂
